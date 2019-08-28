@@ -1,5 +1,5 @@
 # UnionPay-Geek-Challenge-数据建模赛道
-rank 16th
+rank 16th  
 link:https://college.upaas.unionpay.com/upgeek-web/geek/datamodeling
 
 # 赛题说明
