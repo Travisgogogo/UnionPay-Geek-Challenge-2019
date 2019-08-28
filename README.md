@@ -1,6 +1,6 @@
 # UnionPay-Geek-Challenge-数据建模赛道
 rank 16th  
-link:https://college.upaas.unionpay.com/upgeek-web/geek/datamodeling
+link: https://college.upaas.unionpay.com/upgeek-web/geek/datamodeling
 
 （购买部分未能处理好就不开源了）  
 
